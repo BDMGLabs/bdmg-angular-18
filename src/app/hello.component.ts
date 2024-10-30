@@ -20,7 +20,7 @@ import { MatExpansionModule } from '@angular/material/expansion';
     Primeiramente, faça  <b>fork desse projeto</b> para sua conta git hub. Utilize a estrutura do Stackblitz para criar o seu teste técnico. Ao final, envie o link do seu projeto no Stackblitz ao responsável da Montreal que entrou em contato com você.
   </li>
     <li>
-      Veja a estrutura de pastas e crie o seu teste na pasta <b>teste-tecnico</b>.
+      Veja a estrutura de pastas e crie uma pasta para o seu teste.
     </li>
     <li>
       Seguindo o padrão MVCS, faça a requisição GET da API:
