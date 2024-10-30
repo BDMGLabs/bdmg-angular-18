@@ -32,7 +32,7 @@ import { MatExpansionModule } from '@angular/material/expansion';
     </li>
     <li>Encontre uma solução de máscara para o campo <b>'cep'</b>, seguindo o padrão <b>00000-000</b>;</li>
     <li>Encontre uma solução de máscara para o campo <b>'complemento'</b>, seguindo o padrão de milhar: <b>0.000</b>;</li>
-    <li>Caso um novo valor de <b>'cep'</b> seja inserido, uma nova requisição deve ser feita, e o formulário atualizado com os novos dados.</li>
+    <li>Caso um novo valor de <b>'cep'</b> seja inserido/ digitado, uma nova requisição deve ser feita, e o formulário atualizado com os novos dados.</li>
     <li>Construa o método/função que salve as alterações no <b>localstorage</b>;</li>
     <li>O botão de salvar deve ser bloqueado caso todos os campos do formulário <b>não estejam preenchidos</b>;</li>
     <li>Utilize o <b>Angular Material</b> para facilitar o desenvolvimento: https://material.angular.io/</li>
